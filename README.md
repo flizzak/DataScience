@@ -30,7 +30,7 @@ Learn data science in Python, from data manipulation to machine learning. This t
 
 ### Projects
 
-1. Investigating Netflix Movies.
+1. Investigating Netflix Movies. -- Completed
 2. Exploring NYC Public Test Result Scores.
 3. Visualizing the history of Noble Prize winners.
 4. Analyzing crime in Lons Angeles.
