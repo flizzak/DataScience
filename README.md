@@ -6,8 +6,8 @@ Data Science with Python. The data scientist combines statistical and Machine Le
 
 Learn data science in Python, from data manipulation to machine learning. This track provides the skills needed to succeed as a data scientist!
 
-1. Intermediate Python.
-2. Data Manipulation with Pandas.
+1. Intermediate Python. -- Completed
+2. Data Manipulation with Pandas. -- Completed
 3. Joining data with Pandas.
 4. Introduction to Statistics in Python.
 5. Introduction to Data Visualization with Matplotlib.
